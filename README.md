@@ -1,5 +1,6 @@
 # typescript-playground
 
-Simple node project that only has typescipt configured.
+Simple node project that only has typescript configured.
 
-yarn to initalize project.
+`yarn` to initialize project\
+`yarn dev` to run project
